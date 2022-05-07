@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				60
+			],
+			"idle_offsets": [
+				0,
+				60
+			],
+			"loop_name": "spooky dance talk",
+			"idle_name": "spooky dance idle"
+		}
+	],
+	"image": "scary_kids_assets"
+}

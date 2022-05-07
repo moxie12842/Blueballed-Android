@@ -1,0 +1,31 @@
+{
+	"storyName": "LOSER LOSER LOSER LOSER LOSER LOSER LOSER LOSER",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "black",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"BOYFRIEND@MENU_RED",
+		""
+	],
+	"songs": [
+		[
+			"Bad End",
+			"bf@",
+			[
+				106,
+				133,
+				193
+			]
+		]
+	],
+	"weekName": "weekLoser"
+}

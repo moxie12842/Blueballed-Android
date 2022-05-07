@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"expression": "shocked",
+			"text": "oh shit",
+			"boxState": "angry",
+			"speed": 0.02,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "peeco from fnf is getting corrupted by pibby glitch",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "help",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "fllipped"
+		},
+		{
+			"expression": "excited",
+			"text": "didn't ask",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "(flashing lights in this song and a lot of them)",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "nothing"
+		}
+	]
+}

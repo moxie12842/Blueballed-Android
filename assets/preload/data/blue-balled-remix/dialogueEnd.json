@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "Ayyy",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "That was a funky remix, but not enough balls. 7.5 out of 10",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "In all seriousness though, I didn't make that song. It was made by Neonight on YouTube.",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "nothing"
+		},
+		{
+			"expression": "talk",
+			"text": "You watching this right now, go check them out. I'm not asking. I'll be in your house in five minutes. You can't stop me.",
+			"boxState": "normal",
+			"speed": 0.06,
+			"portrait": "nothing"
+		}
+	]
+}

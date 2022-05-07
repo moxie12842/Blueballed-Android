@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Hey there",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Can't help but notice you're using botplay",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "bf"
+		},
+		{
+			"expression": "excited",
+			"text": "Nothing wrong with that, but just know that the mechanic won't show up in botplay",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "In any case, back to it",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "balls",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "pbf"
+		},
+		{
+			"expression": "pissed",
+			"text": "but remixed",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "bf"
+		},
+		{
+			"expression": "excited",
+			"text": "nutty right",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "bf"
+		}
+	]
+}

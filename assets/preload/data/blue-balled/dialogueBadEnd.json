@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Damn bro you literally missed too much",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "nothing"
+		},
+		{
+			"expression": "talk",
+			"text": "Bee eff is now straight up gone :(",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "nothing"
+		},
+		{
+			"expression": "talk",
+			"text": "It's all your fault",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "nothing"
+		},
+		{
+			"expression": "talk",
+			"text": "TRY AGAIN",
+			"boxState": "normal",
+			"speed": 0.29,
+			"portrait": "nothing"
+		}
+	]
+}

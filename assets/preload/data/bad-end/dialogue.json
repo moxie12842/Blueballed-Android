@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "confused",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.055,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "uh?",
+			"boxState": "normal",
+			"speed": 0.06,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "hey dumbass",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "pbf"
+		},
+		{
+			"expression": "talk",
+			"text": "you tryna rap again or nah",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "pbf"
+		},
+		{
+			"expression": "excited",
+			"text": "ya",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "great, it's not like you had a choice though",
+			"boxState": "normal",
+			"speed": 0.053,
+			"portrait": "pbf"
+		},
+		{
+			"expression": "shocked",
+			"text": "forced rap battle?!? boyfriend reference?!?!",
+			"boxState": "angry",
+			"speed": 0.042,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "balls",
+			"boxState": "normal",
+			"speed": 0.092,
+			"portrait": "pbf"
+		}
+	]
+}

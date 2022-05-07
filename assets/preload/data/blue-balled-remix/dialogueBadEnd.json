@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Sucks to suck my man",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "nothing"
+		},
+		{
+			"expression": "talk",
+			"text": "Keep on trying till you get it",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "nothing"
+		},
+		{
+			"expression": "talk",
+			"text": "I know you can, you're good at the game",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "nothing"
+		},
+		{
+			"expression": "talk",
+			"text": "In any case though,",
+			"boxState": "normal",
+			"speed": 0.06,
+			"portrait": "nothing"
+		},
+		{
+			"expression": "talk",
+			"text": "TRY AGAIN",
+			"boxState": "normal",
+			"speed": 0.29,
+			"portrait": "nothing"
+		}
+	]
+}

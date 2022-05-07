@@ -1,0 +1,10 @@
+{
+	"idle_anim": "BF idle dance0",
+	"image": "BOYFRIEND@MENU",
+	"position": [
+		-400,
+		50
+	],
+	"scale": 0.79,
+	"confirm_anim": "BF idle dance0"
+}

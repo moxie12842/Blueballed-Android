@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "balls",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "pbf"
+		},
+		{
+			"expression": "pissed",
+			"text": "but remixed",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "bf"
+		},
+		{
+			"expression": "excited",
+			"text": "nutty right",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "bf"
+		}
+	]
+}

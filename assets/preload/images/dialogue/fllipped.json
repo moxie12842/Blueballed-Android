@@ -1,0 +1,25 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "left",
+	"flip_x": true,
+	"scale": 1.25,
+	"image": "Fllipped_Peeco",
+	"animations": [
+		{
+			"idle_offsets": [
+				-101,
+				-82
+			],
+			"loop_offsets": [
+				-102,
+				-80
+			],
+			"anim": "talk",
+			"idle_name": "Pico NOTE LEFT",
+			"loop_name": "Pico NOTE LEFT0"
+		}
+	]
+}

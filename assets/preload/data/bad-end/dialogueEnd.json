@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Alright that's it",
+			"boxState": "normal",
+			"portrait": "pbf",
+			"speed": 0.045
+		},
+		{
+			"expression": "talk",
+			"text": "the beats was fresh but now I need you to fuck back to the shadow realm or whatever",
+			"boxState": "normal",
+			"portrait": "pbf",
+			"speed": 0.045
+		},
+		{
+			"expression": "confused",
+			"text": "Damn",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.045
+		},
+		{
+			"expression": "pissed",
+			"text": "This is really a bruh moment *vine boom* can we get a F in chat bois",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.045
+		},
+		{
+			"expression": "talk",
+			"text": "get your outdated meme ass the fuck out I got worlds to corrupt n' shit",
+			"boxState": "normal",
+			"portrait": "pbf",
+			"speed": 0.045
+		},
+		{
+			"expression": "shocked",
+			"text": "*fades away like that one mod with the chain smoker what was his name again*",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.048
+		},
+		{
+			"expression": "talk",
+			"text": "Testicles, or nuts. Depends on your tastes really",
+			"boxState": "normal",
+			"portrait": "pbf",
+			"speed": 0.1
+		}
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"dialogue": [
+		{
+			"expression": "confused",
+			"text": "I guess...",
+			"boxState": "normal",
+			"speed": 0.06,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "It's time to do it again.",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "bf"
+		}
+	]
+}

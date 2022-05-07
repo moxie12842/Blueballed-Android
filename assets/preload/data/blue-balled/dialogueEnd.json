@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "While you staved off the glitch for now...",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "nothing"
+		},
+		{
+			"expression": "talk",
+			"text": "It is not gone.",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "nothing"
+		},
+		{
+			"expression": "talk",
+			"text": "Try not to miss too much.",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "nothing"
+		},
+		{
+			"expression": "talk",
+			"text": "You never know when it might try again...",
+			"boxState": "normal",
+			"speed": 0.06,
+			"portrait": "nothing"
+		}
+	]
+}

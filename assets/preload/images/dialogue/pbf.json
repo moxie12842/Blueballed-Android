@@ -1,0 +1,25 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "right",
+	"flip_x": true,
+	"scale": 1.25,
+	"image": "pBOYFRIEND@",
+	"animations": [
+		{
+			"idle_offsets": [
+				35,
+				-14
+			],
+			"loop_offsets": [
+				35,
+				-14
+			],
+			"anim": "talk",
+			"idle_name": "BF idle dance0",
+			"loop_name": "BF idle dance0"
+		}
+	]
+}

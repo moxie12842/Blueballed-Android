@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "go pico yeah yeah go pico",
+			"boxState": "noraml",
+			"speed": 0.03,
+			"portrait": "fllipped"
+		},
+		{
+			"expression": "excited",
+			"text": "peeco from fnf is getting not corrupted by pibby glitch woah",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "thank you, now fuck off",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "fllipped"
+		},
+		{
+			"expression": "pissed",
+			"text": "love you too pico",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "bf"
+		}
+	]
+}
