@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="challenge_boyfriend.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="challenge_bf0000" x="0" y="0" width="126" height="144" frameX="0" frameY="-5" frameWidth="128" frameHeight="149"/>
+	<SubTexture name="challenge_bf0001" x="0" y="0" width="126" height="144" frameX="0" frameY="-5" frameWidth="128" frameHeight="149"/>
+	<SubTexture name="challenge_bf0002" x="128" y="0" width="126" height="146" frameX="-1" frameY="-3" frameWidth="128" frameHeight="149"/>
+	<SubTexture name="challenge_bf0003" x="128" y="0" width="126" height="146" frameX="-1" frameY="-3" frameWidth="128" frameHeight="149"/>
+	<SubTexture name="challenge_bf0004" x="256" y="0" width="126" height="149" frameX="-2" frameY="0" frameWidth="128" frameHeight="149"/>
+	<SubTexture name="challenge_bf0005" x="256" y="0" width="126" height="149" frameX="-2" frameY="0" frameWidth="128" frameHeight="149"/>
+	<SubTexture name="challenge_bf0006" x="384" y="0" width="126" height="148" frameX="-2" frameY="-1" frameWidth="128" frameHeight="149"/>
+	<SubTexture name="challenge_bf0007" x="384" y="0" width="126" height="148" frameX="-2" frameY="-1" frameWidth="128" frameHeight="149"/>
+	<SubTexture name="challenge_bf0008" x="384" y="0" width="126" height="148" frameX="-2" frameY="-1" frameWidth="128" frameHeight="149"/>
+	<SubTexture name="challenge_bf0009" x="384" y="0" width="126" height="148" frameX="-2" frameY="-1" frameWidth="128" frameHeight="149"/>
+	<SubTexture name="challenge_bf0010" x="384" y="0" width="126" height="148" frameX="-2" frameY="-1" frameWidth="128" frameHeight="149"/>
+	<SubTexture name="challenge_bf0011" x="384" y="0" width="126" height="148" frameX="-2" frameY="-1" frameWidth="128" frameHeight="149"/>
+	<SubTexture name="challenge_bf0012" x="384" y="0" width="126" height="148" frameX="-2" frameY="-1" frameWidth="128" frameHeight="149"/>
+	<SubTexture name="challenge_bf0013" x="384" y="0" width="126" height="148" frameX="-2" frameY="-1" frameWidth="128" frameHeight="149"/>
+	<SubTexture name="fall challenge_bf0000" x="512" y="0" width="147" height="149"/>
+	<SubTexture name="fall challenge_bf0001" x="512" y="0" width="147" height="149"/>
+	<SubTexture name="fall challenge_bf0002" x="661" y="0" width="146" height="147" frameX="-1" frameY="-1" frameWidth="147" frameHeight="149"/>
+	<SubTexture name="fall challenge_bf0003" x="661" y="0" width="146" height="147" frameX="-1" frameY="-1" frameWidth="147" frameHeight="149"/>
+	<SubTexture name="jump challenge_bf0000" x="809" y="0" width="136" height="160"/>
+	<SubTexture name="jump challenge_bf0001" x="809" y="0" width="136" height="160"/>
+	<SubTexture name="jump challenge_bf0002" x="0" y="162" width="134" height="159" frameX="0" frameY="0" frameWidth="136" frameHeight="160"/>
+	<SubTexture name="jump challenge_bf0003" x="0" y="162" width="134" height="159" frameX="0" frameY="0" frameWidth="136" frameHeight="160"/>
+	<SubTexture name="onWall challenge_bf0000" x="136" y="162" width="136" height="159" frameX="0" frameY="-1" frameWidth="136" frameHeight="162"/>
+	<SubTexture name="onWall challenge_bf0001" x="136" y="162" width="136" height="159" frameX="0" frameY="-1" frameWidth="136" frameHeight="162"/>
+	<SubTexture name="onWall challenge_bf0002" x="274" y="162" width="136" height="162"/>
+	<SubTexture name="onWall challenge_bf0003" x="274" y="162" width="136" height="162"/>
+	<SubTexture name="run challenge_bf0000" x="412" y="162" width="126" height="151" frameX="-1" frameY="-1" frameWidth="128" frameHeight="154"/>
+	<SubTexture name="run challenge_bf0001" x="412" y="162" width="126" height="151" frameX="-1" frameY="-1" frameWidth="128" frameHeight="154"/>
+	<SubTexture name="run challenge_bf0002" x="540" y="162" width="127" height="148" frameX="0" frameY="-6" frameWidth="128" frameHeight="154"/>
+	<SubTexture name="run challenge_bf0003" x="540" y="162" width="127" height="148" frameX="0" frameY="-6" frameWidth="128" frameHeight="154"/>
+	<SubTexture name="run challenge_bf0004" x="669" y="162" width="126" height="153" frameX="-1" frameY="0" frameWidth="128" frameHeight="154"/>
+	<SubTexture name="run challenge_bf0005" x="669" y="162" width="126" height="153" frameX="-1" frameY="0" frameWidth="128" frameHeight="154"/>
+	<SubTexture name="run challenge_bf0006" x="797" y="162" width="127" height="148" frameX="-1" frameY="-6" frameWidth="128" frameHeight="154"/>
+	<SubTexture name="run challenge_bf0007" x="797" y="162" width="127" height="148" frameX="-1" frameY="-6" frameWidth="128" frameHeight="154"/>
+</TextureAtlas>

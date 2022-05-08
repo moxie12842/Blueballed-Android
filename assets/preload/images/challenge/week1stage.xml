@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="week1stage.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="w1stageBL0000" x="0" y="0" width="64" height="64"/>
+	<SubTexture name="w1stageBL_BG0000" x="66" y="0" width="64" height="64"/>
+	<SubTexture name="w1stageBM0000" x="132" y="0" width="64" height="64"/>
+	<SubTexture name="w1stageBM_BG0000" x="198" y="0" width="64" height="64"/>
+	<SubTexture name="w1stageBR0000" x="264" y="0" width="64" height="64"/>
+	<SubTexture name="w1stageBR_BG0000" x="330" y="0" width="64" height="64"/>
+	<SubTexture name="w1stageCL0000" x="396" y="0" width="64" height="64"/>
+	<SubTexture name="w1stageCL_BG0000" x="0" y="66" width="64" height="64"/>
+	<SubTexture name="w1stageCM0000" x="66" y="66" width="64" height="64"/>
+	<SubTexture name="w1stageCM_BG0000" x="132" y="66" width="64" height="64"/>
+	<SubTexture name="w1stageCR0000" x="198" y="66" width="64" height="64"/>
+	<SubTexture name="w1stageCRBL0000" x="264" y="66" width="64" height="64"/>
+	<SubTexture name="w1stageCRBL_BG0000" x="330" y="66" width="64" height="64"/>
+	<SubTexture name="w1stageCRBR0000" x="396" y="66" width="64" height="64"/>
+	<SubTexture name="w1stageCRBR_BG0000" x="0" y="132" width="64" height="64"/>
+	<SubTexture name="w1stageCRTL0000" x="66" y="132" width="64" height="64"/>
+	<SubTexture name="w1stageCRTL_BG0000" x="132" y="132" width="64" height="64"/>
+	<SubTexture name="w1stageCRTR0000" x="198" y="132" width="64" height="64"/>
+	<SubTexture name="w1stageCRTR_BG0000" x="264" y="132" width="64" height="64"/>
+	<SubTexture name="w1stageCR_BG0000" x="330" y="132" width="64" height="64"/>
+	<SubTexture name="w1stageTL0000" x="396" y="132" width="64" height="64"/>
+	<SubTexture name="w1stageTL_BG0000" x="0" y="198" width="64" height="64"/>
+	<SubTexture name="w1stageTM0000" x="66" y="198" width="64" height="64"/>
+	<SubTexture name="w1stageTM_BG0000" x="132" y="198" width="64" height="64"/>
+	<SubTexture name="w1stageTR0000" x="198" y="198" width="64" height="64"/>
+	<SubTexture name="w1stageTR_BG0000" x="264" y="198" width="64" height="64"/>
+</TextureAtlas>
