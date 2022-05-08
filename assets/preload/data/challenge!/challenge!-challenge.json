@@ -1,0 +1,59 @@
+{
+	"song": {
+		"player1": "pico-player",
+		"player2": "bf-pixel-opponent",
+		"events": [],
+		"notes": [
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 167,
+				"changeBPM": false,
+				"mustHitSection": true
+			}
+		],
+		"gfVersion": "viobot-dance",
+		"player3": null,
+		"splashSkin": "noteSplashes",
+		"song": "Challenge!",
+		"stage": "challenge",
+		"validScore": true,
+		"arrowSkin": "NOTE_assets_challenge",
+		"needsVoices": false,
+		"speed": 0.1,
+		"bpm": 100
+	}
+}
